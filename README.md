@@ -13,8 +13,7 @@ Hi! I'm a Mechanical Engineering student specializing in dynamic systems optimiz
 ### 💡 Current Endeavors
 - Exploring advanced optimization techniques for dynamic systems
 - Developing simulation frameworks for control system validation
-- Implementing novel approaches to multi-agent coordination
-- Studying the intersection of control theory and machine learning
+- Implementing swarm intelligence for multi-agent coordination
 
 ### 📫 Connect With Me
 - 💼 Open to collaboration on simulation and control projects
