@@ -1,21 +1,37 @@
 # David Timothy
 
-## 🚀 Motion Planning & Control Engineer 
+Master's student in Computational Engineering at TU Darmstadt, building open-source tools for trajectory optimization and control systems.
 
-Hi! I'm a Mechanical Engineering student specializing in dynamic systems optimization and control theory.
+## What I Build
 
-### 🎯 Areas of Interest
-- 🛩️ **Trajectory Optimization**: Developing efficient algorithms for path planning and motion control
-- 🤖 **Multi-Agent Systems**: Exploring distributed control and coordination strategies
-- 🎮 **Reinforcement Learning**: Applying RL to control problems
-- 📊 **Predictive Control**: Implementing advanced control strategies for complex systems
+**[MAPTOR](https://github.com/maptor/maptor)** - A Python framework for trajectory and design optimization using pseudospectral methods with adaptive mesh refinement. Handles everything from parallel parking and manipulators to spacecraft missions.
 
-### 💡 Current Endeavors
-- Exploring advanced optimization techniques for dynamic systems
-- Developing simulation frameworks for control system validation
-- Implementing swarm intelligence for multi-agent coordination
+I work on trajectory optimization problems where you need to find the best path while simultaneously optimizing system parameters - like sizing rocket engines while planning ascent trajectories, or choosing actuator capacities while planning robot motion.
 
-### 📫 Connect With Me
-- 💼 Open to collaboration on simulation and control projects
-- 📧 chendavidtimothy@gmail.com
----
+## Recent Projects
+
+**eVTOL Landing Optimization** (Bachelor Thesis)  
+Built a simulation framework for efficient eVTOL aircraft landing missions with dynamic collision avoidance using direct multiple shooting with CasADi.
+
+**Nonlinear Model Predictive Control**  
+Implemented NMPC for vertical rocket landing simulation using CasADi and Python.
+
+**Previous Work**: Parallel parking trajectory optimization, drone pathfinding with Grey Wolf Optimization, sensor data analysis for automotive research at TU Darmstadt's Institute for Mechatronic Systems.
+
+## Technical Stack
+
+**Languages**: Python (advanced), MATLAB/Simulink (advanced), Julia (intermediate), C/C++ (learning)  
+**Optimization**: CasADi, IPOPT, trajectory optimization, optimal control, model predictive control  
+**Tools**: Git, LaTeX, Siemens NX
+
+## Background
+
+Mechanical Engineering graduate (TU Darmstadt, 2024) now pursuing Computational Engineering Master's. Indonesian, based in Darmstadt, Germany. Trilingual: Indonesian, German, English.
+
+Currently working as a student research assistant analyzing automotive sensor data with MATLAB.
+
+## Connect
+
+📧 chendavidtimothy@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/david-timothy-chen)  
+🚀 Open to collaboration on trajectory optimization and control projects
