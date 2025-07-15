@@ -26,7 +26,7 @@ Implemented NMPC for vertical rocket landing simulation using CasADi and Python.
 
 ## Background
 
-Mechanical Engineering graduate (TU Darmstadt, 2024) now pursuing Computational Engineering Master's. Indonesian, based in Darmstadt, Germany. Trilingual: Indonesian, German, English.
+Mechanical Engineering (TU Darmstadt, 2025) now pursuing Computational Engineering Master's. Indonesian, based in Darmstadt, Germany. Trilingual: Indonesian, German, English.
 
 Currently working as a student research assistant analyzing automotive sensor data with MATLAB.
 
